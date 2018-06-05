@@ -1,3 +1,8 @@
+## Para este informe, el método más adecuado es el de “Árbol de decisión" porque es ideal para 
+## descubrir cosas nuevas, en este caso, veremos qué fenómenos se manifiestan en la comunidad 
+## para que haya un alto índice de diabetes y de esta manera, establecer estrategias para realizar 
+##un plan de prevención. 
+
 install.packages("mlbench")
 
 library('mlbench') #cargamos las librerias para ver los graficos
